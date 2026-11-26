@@ -1,0 +1,6 @@
+{
+  "name": "Edusmart Creator Lab – AI Storyboard Studio",
+  "description": "Character Sheet · Background Sync · Multi-Language Video Prompt studio untuk produksi video animasi edukasi anak.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
